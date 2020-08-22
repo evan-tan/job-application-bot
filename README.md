@@ -1,4 +1,4 @@
-## job-application-bot
+## job_application_bot
 
 #### Installation/Setup
 ###### Linux
